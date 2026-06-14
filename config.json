@@ -1,6 +1,7 @@
 {
-  "stepInterval": 0.11,
+  "stepInterval": 0.111,
   "startLength": 3,
   "growBy": 1,
-  "foodValue": 10
+  "foodValue": 10,
+  "playerSpeed": 70
 }
